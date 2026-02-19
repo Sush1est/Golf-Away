@@ -4,5 +4,8 @@
 ----------------------------------------
 <h3> Making Issues </h3>
 It's listed in the Issues tab.
-<h3> More Stuff: </h3>
+<h3>Game Plans & More</h3>
+Here's the link to planned features, bugs, and more!
+https://trello.com/b/WAxPFaSE/golf-away
+<h3> More Stuff </h3>
 <p> More stuff coming soon... </p>
