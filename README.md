@@ -9,6 +9,7 @@ Here's the link to planned features, bugs, and more!
 https://trello.com/b/WAxPFaSE/golf-away
 <h3> Credits </h3>
 Made by ChatGPT
+
 Managed by SimplyAlex (@Sush1est)
 <h3> More Stuff </h3>
 <p> More stuff coming soon... </p>
