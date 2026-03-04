@@ -7,6 +7,8 @@ It's listed in the Issues tab.
 <h3>Game Plans & More</h3>
 Here's the link to planned features, bugs, and more!
 https://trello.com/b/WAxPFaSE/golf-away
+<h3>Next Release Countdown</h3>
+2 Days.
 <h3> Credits </h3>
 Made by ChatGPT
 
