@@ -11,5 +11,8 @@ https://trello.com/b/WAxPFaSE/golf-away
 Made by ChatGPT
 
 Managed by SimplyAlex (@Sush1est)
+
+Sound Effects by https://mixkit.co
+
 <h3> More Stuff </h3>
 <p> More stuff coming soon... </p>
