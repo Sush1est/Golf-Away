@@ -16,6 +16,6 @@ Managed by SimplyAlex (@Sush1est)
 Sound Effects by https://mixkit.co
 
 <h3>Contributer Counter</h3>
-100% ChatGPT 0% SimplyAlex
+94% ChatGPT 6% SimplyAlex
 <h3> More Stuff </h3>
 <p> More stuff coming soon... </p>
