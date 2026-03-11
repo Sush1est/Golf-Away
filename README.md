@@ -13,7 +13,7 @@ https://trello.com/b/WAxPFaSE/golf-away
 Made by ChatGPT
 
 Managed by SimplyAlex (@Sush1est)
-Sound Effects by https://mixkit.co
+ Sound Effects by https://mixkit.co
 
 <h3>Contributer Counter</h3>
 94% ChatGPT 6% SimplyAlex
